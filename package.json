@@ -6,7 +6,6 @@
   },
   "description": "[![Actions Status](https://github.com/Largebro/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Largebro/backend-project-lvl1/actions)",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/Largebro/backend-project-lvl1/issues"
   },
-  "homepage": "https://github.com/Largebro/backend-project-lvl1#readme"
+  "type": "module",
+  "homepage": "https://github.com/Largebro/backend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-react": "^7.26.1"
+  }
 }
