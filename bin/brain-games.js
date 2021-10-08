@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import name from '../src/cli';
+import name from '../src/cli.js';
 
 const answer = `Welcome to the Brain Games!
 May I have your name? ${name}
