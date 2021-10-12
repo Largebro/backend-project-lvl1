@@ -1,7 +1,8 @@
 import readlineSync from 'readline-sync'; // плагин выводит в консоль что ввел юзер
 
 const isPrime = (random) => {
-  return random % 2 === 0 ? 'yes' : 'no';
+  const number = random % 2 === 0 ? 'yes' : 'no';
+  return number;
 };
 
 const game = () => {
