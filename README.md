@@ -6,4 +6,4 @@
 
 ![example workflow](https://github.com/Largebro/backend-project-lvl1/actions/workflows/node.js.yml/badge.svg)
 
-Asciinima, brain-even https://asciinema.org/a/PZDSXbpIfIhegB8I9CNakCBvT
+Asciinema, brain-even https://asciinema.org/a/PZDSXbpIfIhegB8I9CNakCBvT
