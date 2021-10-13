@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import readlineSync from 'readline-sync'; // плагин выводит в консоль что ввел юзер
 
 const isPrime = (random) => {

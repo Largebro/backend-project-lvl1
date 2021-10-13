@@ -2,7 +2,7 @@ install:
 	npm ci
 
 br: 
-	node bin/brain-even.js
+	node bin/brain-games.js
 
 
 publish:
