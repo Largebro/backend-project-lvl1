@@ -4,9 +4,10 @@
   "bin": {
     "brain-games": "bin/brain-games.js",
     "brain-even": "bin/brain-even.js",
-    "brain- calc": "brain-calc.js",
-    "brain-gcd":"brain-gcd.js",
-    "brain-progression":"brain-progression.js"
+    "brain- calc": "bin/brain-calc.js",
+    "brain-gcd": "bin/brain-gcd.js",
+    "brain-progression": "bin/brain-progression.js",
+    "brain-prime": "bin/brain-prime.js"
   },
   "description": "[![Actions Status](https://github.com/Largebro/backend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Largebro/backend-project-lvl1/actions)",
   "main": "index.js",
