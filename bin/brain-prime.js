@@ -16,7 +16,7 @@ const gamePrime = () => {
     Answer "yes" if given number is prime. Otherwise answer "no".`);
   for (let i = 0; i < 3; i += 1) {
     const random = Math.ceil(Math.random() * 100 + 1); // генерация рандом.числа ceil,чтобы убрать0
-    console.log(`Question: ${random}`); // и +1
+    console.log(`Question: ${random}`); // и + 1
     const realAnswer = isPrime(random);
     const answer = readlineSync.question('You answer:'); //  Юзер вводит ответ
     if (answer === realAnswer) { // ответ от пользователя приходит как строка
