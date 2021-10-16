@@ -25,4 +25,3 @@ const gameGcd = () => {
   console.log(`Congratulations ${name}`);
 };
 export default gameGcd();
-
