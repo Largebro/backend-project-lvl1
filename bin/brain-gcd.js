@@ -13,7 +13,7 @@ const gameGcd = () => {
 
     console.log(`Question: ${random1} ${random2}`);
     const realAnswer = gcd(random1, random2);
-    const answer = readlineSync.question('You answer:'); //  Юзер вводит ответ
+    const answer = readlineSync.question('You answer: '); //  Юзер вводит ответ
     if (+answer === realAnswer) { // ответ от пользователя приходит как строка
       console.log('Correct!');
     } else {
