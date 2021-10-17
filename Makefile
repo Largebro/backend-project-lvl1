@@ -1,7 +1,7 @@
 install:
 	npm ci
 
-br: 
+brain-games:
 	node bin/brain-games.js
 
 
@@ -10,3 +10,13 @@ publish:
 	
 make lint:
 	npx eslint .
+
+brain-even:	
+	node	bin/brain-even.js 
+
+brain-prime:	
+	node bin/brain-prime.js
+
+
+brain-progression:
+	node bin/brain-progression.js
