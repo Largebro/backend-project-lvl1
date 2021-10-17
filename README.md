@@ -4,4 +4,4 @@
 [![autolinting](https://github.com/Largebro/backend-project-lvl1/actions/workflows/node.js.yml/badge.svg)](https://github.com/Largebro/backend-project-lvl1/actions/workflows/linter.yml)
 
 ## Игра четность 
-[![asciicast]https://quaded.com/data/Git-Icon.png](https://asciinema.org/a/PZDSXbpIfIhegB8I9CNakCBvT)
+[![asciicast]https://asciinema.org/a/442959.svg)](https://asciinema.org/a/bjlU9Tx52n2fBDUiqA3h0ZfXU)
