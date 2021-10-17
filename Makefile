@@ -12,7 +12,7 @@ make lint:
 	npx eslint .
 
 brain-even:	
-	node	bin/brain-even.js 
+	node bin/brain-even.js 
 
 brain-prime:	
 	node bin/brain-prime.js
@@ -20,3 +20,6 @@ brain-prime:
 
 brain-progression:
 	node bin/brain-progression.js
+
+brain-calc:
+	node bin/brain-calc.js
