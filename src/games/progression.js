@@ -24,4 +24,4 @@ const makeGame = () => {
   return [question, correctAnswer];
 };
 const runBrainProgression = () => runBrainGames(makeGame, gameRules);
-export default runBrainProgression();
+export default runBrainProgression;
